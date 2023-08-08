@@ -1,0 +1,7 @@
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Classes and Objects Game\Classes and Objects Game\bin\Debug\Classes and Objects Game.exe.config
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Classes and Objects Game\Classes and Objects Game\bin\Debug\Classes and Objects Game.exe
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Classes and Objects Game\Classes and Objects Game\bin\Debug\Classes and Objects Game.pdb
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Classes and Objects Game\Classes and Objects Game\obj\Debug\Classes and Objects Game.csproj.AssemblyReference.cache
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Classes and Objects Game\Classes and Objects Game\obj\Debug\Classes and Objects Game.csproj.CoreCompileInputs.cache
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Classes and Objects Game\Classes and Objects Game\obj\Debug\Classes and Objects Game.exe
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Classes and Objects Game\Classes and Objects Game\obj\Debug\Classes and Objects Game.pdb
